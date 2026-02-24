@@ -1,0 +1,19 @@
+Life insurance
+integrated cammunda 3rd party service for premium calculation of the policy.
+kickoff email - user will get the remider emails for plan expiration 
+Quick Quote service - BFF - core insurance service layer(CISL) - api archestration(BFF) benifit illustration service, party service, contract service
+life and participent and non participent
+
+policy creation api enhance reponse time
+
+worked on claim service which handles and process different types of claim submission. property claim, reinsurance claim, health claim
+FNOL- First notice of loss.(motor insurance)
+
+nominee
+intitlement of benifit 
+
+
+typw of life insurance - term life, whole life and participent and non par
+payment primium term,
+
+retail life insurance
